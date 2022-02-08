@@ -10,7 +10,7 @@
 Gain insights into Azure Firewall events. You can learn about your application and network rules, see statistics for firewall activities across URLs, ports, and addresses. This workbook allows you to filter your Firewalls and Resource Groups, dynamically filter per category with easy to read data sets when investigating an issue in your logs. Import via ARM Template or Gallery Template.
 &nbsp;
 
-[![Deploy to Azure](https://aka.ms/deploytoazurebutton)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Fdefencedigital%2Fdso-platform%2Fmain%2Fazureinfra%2Fmonitoring%2Faz-firewall%2FAzure%20Firewall_ARM.json?token=GHSAT0AAAAAABRLYSFQMH27QYZCR56K6JKWYQLWVNA)
+[![Deploy to Azure](https://aka.ms/deploytoazurebutton)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Fdmc-tech%2Faz-workbooks%2Fmain%2FAzure%20Firewall_ARM.json)
 
 &nbsp;
 When deploying via ARM Template, please make sure you know what Resource ID (Log Analytics Workgroup) you're wanting to use.
